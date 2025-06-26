@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     header: {
-        backgroundColor: commonStyles.colors.today,
+        backgroundColor: "blue",
         color: commonStyles.colors.secondary,
         textAlign: "center",
         padding: 15,
@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
         margin: 15,
         backgroundColor: "#FFF",
         borderWidth: 1,
-        borderColor: "#E3E3E3",
+        borderColor: "blue",
         borderRadius: 6,
     },
     date: {
@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
     button: {
         margin: 20,
         marginRight: 30,
-        color: commonStyles.colors.today,
+        color: "blue",
     },
 });
 

@@ -184,16 +184,16 @@ const styles = StyleSheet.create({
         justifyContent: 'flex-end'
     },
     title: {
-        color: 'black',
-        textShadowColor: 'yellow',
+        color: 'white',
+        textShadowColor: 'blue',
         textShadowRadius: 30,
         fontSize: 50,
         marginLeft: 20,
         marginBottom: 20
     },
     subtitle: {
-        color: 'black',
-        textShadowColor: 'yellow',
+        color: 'white',
+        textShadowColor: 'blue',
         textShadowRadius: 30,
         fontSize: 25,
         marginLeft: 20,
@@ -212,7 +212,7 @@ const styles = StyleSheet.create({
         width: 50,
         height: 50,
         borderRadius: 25,
-        backgroundColor: '#B13B44',
+        backgroundColor: 'blue',
         justifyContent: 'center',
         alignItems: 'center'
     }
